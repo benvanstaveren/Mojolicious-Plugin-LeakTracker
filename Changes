@@ -1,3 +1,4 @@
 Revision history for perl module {{$dist->name}}
 
 {{$NEXT}}
+    Initial release on an unsuspecting yet friendly world
